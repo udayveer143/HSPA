@@ -1,0 +1,38 @@
+[
+    {
+      "Id":1,
+      "Name":"Birla House",
+      "Type":"House",
+      "Price":12000
+    },
+    {
+      "Id":2,
+      "Name":"Mahi Villa",
+      "Type":"Villa",
+      "Price":52000
+    },
+    {
+      "Id":3,
+      "Name":"Joshi Home",
+      "Type":"Home",
+      "Price":112000
+    },
+    {
+      "Id":4,
+      "Name":"Siktaria House",
+      "Type":"House",
+      "Price":15000
+    },
+    {
+      "Id":5,
+      "Name":"Parihar Bhawan",
+      "Type":"Bhawan",
+      "Price":9900000
+    },
+    {
+      "Id":6,
+      "Name":"Baghel Villa",
+      "Type":"Villa",
+      "Price":56000
+    }
+  ]
